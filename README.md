@@ -1,8 +1,5 @@
 
 # for_github_publishing
 
-<!-- badges: start -->
-<!-- badges: end -->
 
-The goal of for_github_publishing is to ...
-
+This is part of following along the 4.4 class vid!
